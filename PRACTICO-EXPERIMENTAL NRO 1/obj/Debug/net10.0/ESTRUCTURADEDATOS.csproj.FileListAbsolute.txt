@@ -1,0 +1,14 @@
+C:\Users\Administrador\Documents\GitHub\ESTRUCTURA DE DATOS\bin\Debug\net10.0\ESTRUCTURADEDATOS.exe
+C:\Users\Administrador\Documents\GitHub\ESTRUCTURA DE DATOS\bin\Debug\net10.0\ESTRUCTURADEDATOS.deps.json
+C:\Users\Administrador\Documents\GitHub\ESTRUCTURA DE DATOS\bin\Debug\net10.0\ESTRUCTURADEDATOS.runtimeconfig.json
+C:\Users\Administrador\Documents\GitHub\ESTRUCTURA DE DATOS\bin\Debug\net10.0\ESTRUCTURADEDATOS.dll
+C:\Users\Administrador\Documents\GitHub\ESTRUCTURA DE DATOS\bin\Debug\net10.0\ESTRUCTURADEDATOS.pdb
+C:\Users\Administrador\Documents\GitHub\ESTRUCTURA DE DATOS\obj\Debug\net10.0\ESTRUCTURADEDATOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\GitHub\ESTRUCTURA DE DATOS\obj\Debug\net10.0\ESTRUCTURADEDATOS.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\GitHub\ESTRUCTURA DE DATOS\obj\Debug\net10.0\ESTRUCTURADEDATOS.AssemblyInfo.cs
+C:\Users\Administrador\Documents\GitHub\ESTRUCTURA DE DATOS\obj\Debug\net10.0\ESTRUCTURADEDATOS.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\GitHub\ESTRUCTURA DE DATOS\obj\Debug\net10.0\ESTRUCTURADEDATOS.dll
+C:\Users\Administrador\Documents\GitHub\ESTRUCTURA DE DATOS\obj\Debug\net10.0\refint\ESTRUCTURADEDATOS.dll
+C:\Users\Administrador\Documents\GitHub\ESTRUCTURA DE DATOS\obj\Debug\net10.0\ESTRUCTURADEDATOS.pdb
+C:\Users\Administrador\Documents\GitHub\ESTRUCTURA DE DATOS\obj\Debug\net10.0\ESTRUCTURADEDATOS.genruntimeconfig.cache
+C:\Users\Administrador\Documents\GitHub\ESTRUCTURA DE DATOS\obj\Debug\net10.0\ref\ESTRUCTURADEDATOS.dll

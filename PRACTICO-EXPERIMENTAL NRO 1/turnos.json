@@ -1,0 +1,11 @@
+[
+  {
+    "IdTurno": 1,
+    "NombrePaciente": "Miguel Aguas",
+    "Edad": 21,
+    "Especialidad": "Medicina General",
+    "Fecha": "19/06/2026",
+    "Hora": "19:47",
+    "Activo": true
+  }
+]
