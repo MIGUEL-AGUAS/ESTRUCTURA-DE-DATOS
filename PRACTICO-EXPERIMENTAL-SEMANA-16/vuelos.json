@@ -1,0 +1,158 @@
+[
+  {
+    "Origen": "Quito",
+    "Destino": "Guayaquil",
+    "Precio": 100,
+    "Aerolinea": "Latam"
+  },
+  {
+    "Origen": "Quito",
+    "Destino": "Guayaquil",
+    "Precio": 110,
+    "Aerolinea": "Equair"
+  },
+  {
+    "Origen": "Guayaquil",
+    "Destino": "Quito",
+    "Precio": 95,
+    "Aerolinea": "Avianca"
+  },
+  {
+    "Origen": "Guayaquil",
+    "Destino": "Quito",
+    "Precio": 105,
+    "Aerolinea": "Latam"
+  },
+  {
+    "Origen": "Quito",
+    "Destino": "Cuenca",
+    "Precio": 150,
+    "Aerolinea": "Aeroregional"
+  },
+  {
+    "Origen": "Quito",
+    "Destino": "Cuenca",
+    "Precio": 135,
+    "Aerolinea": "Avianca"
+  },
+  {
+    "Origen": "Cuenca",
+    "Destino": "Quito",
+    "Precio": 145,
+    "Aerolinea": "Latam"
+  },
+  {
+    "Origen": "Cuenca",
+    "Destino": "Quito",
+    "Precio": 130,
+    "Aerolinea": "Aeroregional"
+  },
+  {
+    "Origen": "Guayaquil",
+    "Destino": "Cuenca",
+    "Precio": 40,
+    "Aerolinea": "Latam"
+  },
+  {
+    "Origen": "Guayaquil",
+    "Destino": "Cuenca",
+    "Precio": 50,
+    "Aerolinea": "Avianca"
+  },
+  {
+    "Origen": "Cuenca",
+    "Destino": "Guayaquil",
+    "Precio": 45,
+    "Aerolinea": "Avianca"
+  },
+  {
+    "Origen": "Cuenca",
+    "Destino": "Guayaquil",
+    "Precio": 35,
+    "Aerolinea": "Latam"
+  },
+  {
+    "Origen": "Quito",
+    "Destino": "Manta",
+    "Precio": 60,
+    "Aerolinea": "Avianca"
+  },
+  {
+    "Origen": "Quito",
+    "Destino": "Manta",
+    "Precio": 70,
+    "Aerolinea": "Latam"
+  },
+  {
+    "Origen": "Manta",
+    "Destino": "Quito",
+    "Precio": 55,
+    "Aerolinea": "Latam"
+  },
+  {
+    "Origen": "Manta",
+    "Destino": "Quito",
+    "Precio": 65,
+    "Aerolinea": "Equair"
+  },
+  {
+    "Origen": "Manta",
+    "Destino": "Guayaquil",
+    "Precio": 30,
+    "Aerolinea": "Latam"
+  },
+  {
+    "Origen": "Manta",
+    "Destino": "Guayaquil",
+    "Precio": 40,
+    "Aerolinea": "Avianca"
+  },
+  {
+    "Origen": "Guayaquil",
+    "Destino": "Manta",
+    "Precio": 35,
+    "Aerolinea": "Avianca"
+  },
+  {
+    "Origen": "Guayaquil",
+    "Destino": "Manta",
+    "Precio": 45,
+    "Aerolinea": "Latam"
+  },
+  {
+    "Origen": "Cuenca",
+    "Destino": "Loja",
+    "Precio": 45,
+    "Aerolinea": "Aeroregional"
+  },
+  {
+    "Origen": "Cuenca",
+    "Destino": "Loja",
+    "Precio": 55,
+    "Aerolinea": "Latam"
+  },
+  {
+    "Origen": "Loja",
+    "Destino": "Cuenca",
+    "Precio": 40,
+    "Aerolinea": "Latam"
+  },
+  {
+    "Origen": "Loja",
+    "Destino": "Cuenca",
+    "Precio": 50,
+    "Aerolinea": "Avianca"
+  },
+  {
+    "Origen": "Quito",
+    "Destino": "Loja",
+    "Precio": 190,
+    "Aerolinea": "Latam"
+  },
+  {
+    "Origen": "Quito",
+    "Destino": "Loja",
+    "Precio": 180,
+    "Aerolinea": "Aeroregional"
+  }
+]
